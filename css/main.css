@@ -91,7 +91,7 @@ header nav ul li a{
 	clear: both;*/
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	flex-flow: column;
 	width:90%;
 }
